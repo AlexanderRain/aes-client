@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">essay-grader</string>
+    <string name="title_history">History</string>
+    <string name="title_input">Input</string>
+    <string name="title_camera">Camera</string>
+    <string name="rate_button">Rate it!</string>
+</resources>
